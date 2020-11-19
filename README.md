@@ -1,6 +1,6 @@
 # Jira Burndown chart
 
-A Jira Burndown Chart with Vue.js Chrome Web Extension
+A Jira Burndown Chart with Vue.js <img width="30" alt="vuejs-logo" src="https://user-images.githubusercontent.com/22003086/99616415-50c9b700-2a71-11eb-8732-429a4117d5c4.png"> Chrome Web Extension
 
 
 ![Burndown Summary](https://user-images.githubusercontent.com/22003086/99616043-aa7db180-2a70-11eb-9d6b-76e7461f3825.png)

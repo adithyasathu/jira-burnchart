@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import App from './App';
+import Moment from 'moment';
 
 import {
   MdButton,
@@ -28,6 +29,8 @@ Vue.use(MdSnackbar);
 Vue.use(MdSwitch);
 Vue.use(MdContent);
 Vue.use(MdDialog);
+
+Vue.prototype.$moment = Moment;
 
 global.browser = require('webextension-polyfill');
 Vue.prototype.$browser = global.browser;

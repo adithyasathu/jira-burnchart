@@ -2,6 +2,13 @@
 
 A Jira Burndown Chart with Vue.js Chrome Web Extension
 
+
+![Burndown Summary](https://user-images.githubusercontent.com/22003086/99616043-aa7db180-2a70-11eb-9d6b-76e7461f3825.png)
+
+![Burn Down Chart](https://user-images.githubusercontent.com/22003086/99615931-6a1e3380-2a70-11eb-9eac-31ce681a3fc8.png)
+![Settings](https://user-images.githubusercontent.com/22003086/99615933-6ab6ca00-2a70-11eb-8236-f1b4a3d788f3.png)
+
+
 ## Building the extension
 Bowered from the [vue-web-extension](https://github.com/Kocal/vue-web-extension/edit/master/README.md) that this project is based on
 
